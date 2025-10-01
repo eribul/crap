@@ -1,0 +1,11 @@
+1. open the `crappy_script.R`
+2. Change the name of the function to something more meaningful
+3. Add some comments to the function to describe what it does
+4. Run the function to check that it works
+5. Save the file
+6. Open the source control extension and commit your changes
+7. Add a readme file to the repository that describes what the function does and how to use it
+  - create a new file called `README.md` in the folder alongside `crappy_script.R`
+8. Commit your changes
+
+Congartulations! You have successfully improved and documented a script in your repository and all changes have been changeed!
